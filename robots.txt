@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://imthewilbur.github.io/Critters-Wildlife-Management/sitemap.xml
+Sitemap: https://critterswildlife.com/sitemap.xml
